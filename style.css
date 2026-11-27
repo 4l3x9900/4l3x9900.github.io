@@ -151,3 +151,5 @@ footer { padding-top: 20px; padding-bottom: 28px; border-top: 1px solid var(--li
   .motto::after, .cursor { animation: none; }
   .card { transition: none; }
 }
+
+.lang { padding: 0 6px; border: 1px solid var(--line); border-radius: 4px; font-size: 12px; }
